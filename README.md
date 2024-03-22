@@ -21,8 +21,8 @@ A command-line application that manages a company's employee database, using Nod
   The user will invoke this application from the command-line by running node index.js. When the application is started, the user will be presentated with options to view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role. The user will be able to select one of the options and view the corresponding information presented in a table to easily read the information store in the database. The user will also be able to add new departments, roles, and employees.
 
   Here is a link to the walkthrough video demonstrating the application:
-
-
+  
+  https://drive.google.com/file/d/1zstuVywWYBX0dExUWRR8LikSOJQ4Dz11/view
 
   ## Contribution
   N/A
