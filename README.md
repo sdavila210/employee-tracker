@@ -35,6 +35,7 @@ A command-line application that manages a company's employee database, using Nod
   https://www.w3schools.com/mysql/mysql_create_table.asp
   https://www.w3schools.com/sql/func_mysql_concat.asp
   https://www.w3schools.com/mysql/mysql_join.asp
+  https://stackoverflow.com/questions/63005429/passing-promises-with-mysql-nodejs
 
   ## License
   MIT License
